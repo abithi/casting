@@ -1,0 +1,23 @@
+a=int(input("number a is:"))#casting
+b=int(input("number b is:"))
+c=a+b
+print(c)
+name=input("name is:")
+age=int(input("age is:"))
+address=input("address is:")
+print("my name is:",name)
+print("my age is:",age)
+print("my address is:",address)
+a=int(input("number a is:"))
+b=int(input("number b is:"))
+c=int(input("number c is:"))
+mul=a*b*c
+add=a+b+c
+div=mul/add
+print(div)
+name=input()
+score=int(input())
+dep=input()
+print("my name is:",name)
+print("my score is:",score/10,"/10")
+print("my deparement is :",dep)
